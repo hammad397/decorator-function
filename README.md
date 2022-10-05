@@ -1,0 +1,1 @@
+Decorator function is a higher order function that takes a function as callback and return a function. We can enhance the functionality of a function without make any further changes in it by the help of a decorator function.
