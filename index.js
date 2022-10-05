@@ -11,6 +11,5 @@ const decorator = func => {
 
 const hello = about => console.log(`This is a ${about}`);
 
-
 const decoratedFunc = decorator(hello);
 decoratedFunc('higher order decorator function');
